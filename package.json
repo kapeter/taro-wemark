@@ -1,0 +1,23 @@
+{
+  "name": "taro-wemark",
+  "version": "1.0.0",
+  "description": "微信小程序markdown渲染库-Taro框架适配版本",
+  "main": "src/taro-wemark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapeter/taro-wemark.git"
+  },
+  "keywords": [
+    "taro",
+    "markdown"
+  ],
+  "author": "kapeter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kapeter/taro-wemark/issues"
+  },
+  "homepage": "https://github.com/kapeter/taro-wemark#readme"
+}
